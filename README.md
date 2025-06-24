@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ### Hi, I’m Nandini 👋  <br>I'm a final-year tech student, creative builder, and AI enthusiast who loves turning ideas into digital products.<br><br>- 🌸 Founder of **Drobb** – a Gen Z fashion discovery platform  <br>- 🛍️ Building cute & functional tools (like Kawaii Planner) using **Next.js**, **Prisma**, **Node.js**, and **PostgreSQL**  <br>- 🤖 Exploring Generative AI, Prompt Engineering, and RAG-based assistants  <br>- 📸 Also creating **UGC skincare content** and bridging tech + beauty  <br>- 🧠 Currently working on: an AI-powered financial advisor + a no-code PM toolkit  <br>- 💌 Let’s collaborate on projects that are useful, aesthetic & intentional!<br><br>> *"Code it like art, build it like a story."*<br><br><!-- GitHub Stats (optional) --><br><!-- ![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) --><br>
 
 
