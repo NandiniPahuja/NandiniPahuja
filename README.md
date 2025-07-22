@@ -4,7 +4,6 @@ I'm a final-year tech student, creative builder, and AI enthusiast who loves tur
 <br>• Founder of Drobb – a Gen Z fashion discovery platform  
 <br>• Building cute & functional tools (like Kawaii Planner) using Next.js, Prisma, Node.js, and PostgreSQL  
 <br>• Exploring Generative AI, Prompt Engineering, and RAG-based assistants  
-<br>•  Also creating UGC skincare content and bridging tech + beauty  
 <br>• Currently working on: an AI-powered financial advisor + a no-code PM toolkit  
 <br>• Let’s collaborate on projects that are useful, aesthetic & intentional!
 
