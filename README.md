@@ -7,8 +7,7 @@ I'm a final-year tech student, creative builder, and AI enthusiast who loves tur
 <br>• Currently working on: an AI-powered financial advisor + a no-code PM toolkit  
 <br>• Let’s collaborate on projects that are useful, aesthetic & intentional!
 
-> *"Code it like art, build it like a story."*
-
+>
 <!-- GitHub Stats (optional) -->
 <!-- ![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) -->
 
